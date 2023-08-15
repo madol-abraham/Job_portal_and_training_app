@@ -1,1 +1,1 @@
-Job portal and training menu driven application. This is an application that is aligned with our GCGOs of Job creation and Education which implies that it will both provide training and job opportunities to different youths who will interact with it.
+Job portal and training menu driven application. This application is awesome
