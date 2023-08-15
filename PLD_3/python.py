@@ -32,7 +32,7 @@ def display_menu():
     print("5. Exit")
     print("======================================")
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     job_portal = JobPortal()
 
     while True:
